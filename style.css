@@ -1,0 +1,66 @@
+*{
+  
+    color: #1A1826;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.navbar{
+
+  min-height: 10vh;
+  background-color: #2450A6;
+  color: #2450A6;
+} 
+.nav-link {
+ font-weight: 700;
+font-size: large;
+color: #fff;
+
+
+}
+
+body{
+    background-color:#fff;
+    color: #1A1826;
+
+}
+
+
+.navbar-brand img{
+  border: 4px #A7B8D9 solid;
+}
+
+
+img{
+ width: 100px; 
+}
+
+#content-wrapper{
+  padding-left: 240px;
+}
+.about_me{
+ min-height: 100vh;
+ height: 100%;
+display: flex;
+align-items: center;
+padding-top: 80px;
+padding-left: 80px;
+}
+/* =================== */
+
+
+.btn {
+  background-color: #2C51BF;
+  color: #fff;
+}
+.card-title{
+  color: #4465A6;
+}
+.card:hover{
+  border: #2450A6 solid;
+
+}
+h1{
+  color: #2450A6;
+}
+
+
